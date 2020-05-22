@@ -2,6 +2,10 @@
 
 ## 1. Overview
 
+<p align = "center">
+<img src="files/gripper_real.gif" width="450" height="250"> <img src="files/gripper_model.gif" width="450" height="250"> 
+</p>
+
 The extendable palm device is a robotic end-effector that can be retrofitted onto existing robotic grippers. It is consturcted as a parallel mechanism that can produce a striaght line motion for the palm while avoiding collisions with the base gripper as can be seen in the video below. Our 3D-printed prototype is acutated by one Dynamixel AX-12A servo motor connected with a simple gear train. For reproduction of the extendable palm device, please refer to the bill of materials and the link for the Solidworks model made available below.  
 
 **Related Patents**: 
