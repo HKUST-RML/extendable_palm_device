@@ -59,5 +59,11 @@ The extendable palm device is a robotic end-effector that can be retrofitted ont
 
 **Note:** The Dynamixel AX12-A servo motor and the wrist bracket is connected via the [Robotis FP04-F3 side mounting frame bracket](http://www.robotis.us/fp04-f3-10pcs/) that comes with the servo motor purchase.   
 
-## 4. Maintenance 
+## 4. Power and Signal
+<p align = "center">
+<img src="files/power_signal_schemeatic.jpg" width="750">  
+</p>
+
+
+## 5. Maintenance 
 For any technical issues, please contact John Kim [chkimaa@connect.ust.hk]().
