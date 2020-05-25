@@ -52,6 +52,10 @@ The extendable palm device is a robotic end-effector that can be retrofitted ont
 - Metric M4 nuts (x4)
 - Metric M2 nuts (x2)
 
+## 3. Assembly Diagram
+<p align = "center">
+<img src="files/gripper_assembly_diagram.jpg" width="600" height="550">  
+</p>
 
-## 3. Maintenance 
+## 4. Maintenance 
 For any technical issues, please contact John Kim [chkimaa@connect.ust.hk]().
