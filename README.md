@@ -18,9 +18,12 @@ The extendable palm device is a robotic end-effector that can be retrofitted ont
 
 ## 2. Bill of Materials
 
+**Solidworks Model**: 
+- [Version 1.0.0](https://drive.google.com/open?id=1LU2ESZIVc5RaizjKnRRDMieen1sGAB-5) (25 May 2020)
+
+
 ### 3D-Printing Parts
 
-**Solidworks Model**: [Download Link](https://drive.google.com/open?id=1LU2ESZIVc5RaizjKnRRDMieen1sGAB-5)
 
 1. Bracket (Top) x 1
 2. Bracket (Bottom) x 1
