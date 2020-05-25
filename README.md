@@ -43,6 +43,15 @@ The extendable palm device is a robotic end-effector that can be retrofitted ont
 - Lego Technic Gear, 28 tooth double bevel x 2
 - Lego Technic Gear, 20 tooth double bevel x 1
 
+### Fasteners
+
+- Metric M4 x 30mm socket head cap screw (x4)
+- Metric M4 x 15mm socket head cap screw (x4)
+- Metric M3 x 15mm socket head cap screw (x2)
+- Metric M2 x 40mm socket head cap screw (x2)
+- Metric M4 nuts (x4)
+- Metric M2 nuts (x2)
+
 
 ## 3. Maintenance 
 For any technical issues, please contact John Kim [chkimaa@connect.ust.hk]().
